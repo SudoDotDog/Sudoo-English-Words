@@ -2338,5 +2338,5 @@ export const EnglishNouns: string[] = [
     "zipper",
     "zone",
     "zoo",
-    "zoology"
+    "zoology",
 ];

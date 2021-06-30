@@ -638,5 +638,5 @@ export const EnglishVerbs: string[] = [
     "yawn",
     "yell",
     "zip",
-    "zoom"
+    "zoom",
 ];
