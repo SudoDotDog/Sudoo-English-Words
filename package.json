@@ -15,6 +15,9 @@
     "url": "https://github.com/SudoDotDog/Sudoo-Words-English/issues"
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Words-English#readme",
+  "dependencies": {
+    "@sudoo/words": "^1.0.0"
+  },
   "devDependencies": {
     "@sudoo/io": "^1.8.0",
     "@sudoo/triforce": "^2.8.27"
