@@ -5,3 +5,5 @@
  */
 
 export * from "./nouns";
+export * from "./verbs";
+
